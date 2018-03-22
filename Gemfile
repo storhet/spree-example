@@ -13,6 +13,10 @@ gem 'rails', '~> 5.1.5'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 
+gem 'spree', '~> 3.4.4'
+gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_gateway', '~> 3.3'
+
 
 gem 'pg'
 
